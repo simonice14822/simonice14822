@@ -1,127 +1,79 @@
-<h1 align="center">Hi, I'm Jirawat Jommanee 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Full Stack Programmer at Nonghoi Petroleum</b><br>
-  NestJS · TypeScript · PostgreSQL · Chiang Mai, Thailand<br>
-  Open to Programmer &amp; IT roles
+# Hi, I'm Jirawat Jommanee 👋
+
+<a href="https://www.linkedin.com/in/jirawat-jommanee-654581361/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Full+Stack+Developer;NestJS+%C2%B7+TypeScript+%C2%B7+PostgreSQL;Former+programming+instructor;Open+to+Programmer+%26+IT+roles" alt="Full Stack Developer · NestJS · TypeScript · PostgreSQL" /></a>
+
+<p>
+  <a href="https://www.linkedin.com/in/jirawat-jommanee-654581361/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/Chiang_Mai,_Thailand-238636?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Chiang Mai, Thailand" />
+  <img src="https://img.shields.io/badge/Open_to-Programmer_%26_IT_roles-F78166?style=for-the-badge" alt="Open to Programmer & IT roles" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jirawat-jommanee-654581361/"><img src="https://img.shields.io/badge/LinkedIn-Jirawat%20Jommanee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
+</div>
 
----
-
-## 🙋 About me
-
-- 🛠️ Building **NP Smart**, an in-house accounting system for a trading business in LPG gas and automotive spare parts. I own the whole stack: REST APIs, the admin web app and the end-user app, including the tax side that has to stand up to real filing.
-- 🎓 B.Sc. in Industrial Education, Electrical Engineering (Computer Engineering), Rajamangala University of Technology Lanna
-- 👨‍🏫 Two years as a student instructor at Lanna Polytechnic College, teaching back-end web development and other computer subjects
-- 💼 Take on freelance development work alongside my job
-
-## 💼 Experience
-
-**Full Stack Programmer** · Nonghoi Petroleum · *Apr 2026 – Present* · Chiang Mai
-
-- Designed and developed REST APIs with NestJS + TypeORM on PostgreSQL
-- Built the admin web app and the end-user application
-- Handled purchasing, sales, inventory and tax workflows: Thai VAT (P.P.30), withholding tax (P.N.D.3/53) and e-Tax Invoice
-- Designed the database schema and deployed the system for real use in the organization
-
-**Instructor** · Lanna Polytechnic College · *Jul 2024 – Apr 2026* · Chiang Mai
-
-- Taught back-end web development and other computer-related subjects
-- Covered HTML, CSS, JavaScript, databases (MySQL, phpMyAdmin) and building APIs
-
-## 🚀 Projects
-
-### 🧾 NP Smart: in-house accounting and sales system
-*Company project, private repository*
-
-Runs purchasing, sales, inventory and Thai tax filing (VAT P.P.30, WHT P.N.D.3/53, e-Tax Invoice) for Nonghoi Petroleum. Includes a NestJS API, a React admin dashboard for management, and a Flutter mobile app for the sales team with live location tracking and route maps. Used every day inside the organization.
-
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
-
-### 🤟 Basic Sign Language Training System
-*Student innovation competition*
-
-Web app for a school for the deaf. Recognizes Thai Sign Language hand gestures in real time through a webcam and scores how closely the learner's hand matches the reference pose. Written in plain HTML and JavaScript with no build tools or backend, so it runs in any browser.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
-
-### 📈 [goldsignal](https://github.com/simonice14822/goldsignal): gold M5 trading helper
-
-Single-page tool for manual XAU/USD trading on the 5-minute chart. Shows the live gold price, checks the EMA50 trend across M5, M15 and H1, flags rule-based pullback entries to EMA20, and calculates ATR-based SL/TP and risk per trade. Includes a price sparkline, sound alerts and a signal log with CSV export. It does not predict price; it only enforces trading rules.
-
-🔗 **Live demo:** https://simonice14822.github.io/goldsignal/
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Canvas](https://img.shields.io/badge/Canvas_API-555555?style=flat-square)
-![REST](https://img.shields.io/badge/Market_data_APIs-555555?style=flat-square)
-
-### 🏡 [myice-land](https://github.com/simonice14822/myice-land): land-for-sale landing page
-
-Responsive landing page for a land listing in Hang Dong, Chiang Mai: hero section, plot pricing cards, photo gallery with lightbox, embedded Google Map and a contact section.
-
-🔗 **Live demo:** https://simonice14822.github.io/myice-land/
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-### 🐘 [Test_php-](https://github.com/simonice14822/Test_php-): PHP practice
-
-Product listing pages written in plain PHP.
+```ts
+const jirawat = {
+  role: "Full Stack Developer",
+  basedIn: "Chiang Mai, Thailand",
+  building: "Business systems end to end: database → REST API → admin web → mobile app",
+  currently: "Running an in-house accounting & sales system for a trading company",
+  previously: "Programming instructor at a vocational college (2 years)",
+  education: "B.S. Industrial Education, Computer Engineering, RMUTL",
+  languages: ["TypeScript", "JavaScript", "Python", "PHP", "Dart", "SQL"],
+  openTo: ["Programmer", "IT"],
+};
+```
 
 ## 🧰 Tech stack
 
-**Languages**
+| | |
+|---|---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,py,php,dart,html,css" alt="TypeScript, JavaScript, Python, PHP, Dart, HTML, CSS" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nestjs,nodejs" alt="NestJS, Node.js" /> &nbsp; TypeORM · REST API |
+| **Frontend & mobile** | <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,bootstrap" alt="React, Next.js, Flutter, Bootstrap" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="PostgreSQL, MySQL" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" alt="Git, GitHub, Docker, VS Code" /> |
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+## 💼 Experience
 
-**Backend**
+**Full Stack Developer** · *2026 – present*
 
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+Building and maintaining an in-house accounting and sales system for a trading company, end to end.
 
-**Frontend and mobile**
+- Database schema design and REST APIs
+- Admin web app for the office team and a mobile app for the sales team
+- Purchasing, sales, inventory and Thai tax workflows (VAT, withholding tax, e-Tax Invoice)
+- Deployed and running in daily use
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+`NestJS` `TypeORM` `PostgreSQL` `React` `Flutter`
 
-**Databases**
+**Instructor** · Lanna Polytechnic College · *2024 – 2026*
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+Two years teaching vocational students as a student instructor.
 
-**Tools**
+- Subjects: computer programming, website development, back-end development
+- Covered HTML, CSS, JavaScript, databases (MySQL, phpMyAdmin) and building APIs
+- Advised and assessed students' final projects
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white)
+## 🎓 Education
+
+- **B.S. Industrial Education, Electrical Engineering (Computer Engineering)** · Rajamangala University of Technology Lanna · *2019 – 2025*
+- **Higher Vocational Certificate, Computer Technician** · Chiang Mai Technical College · *2017 – 2019*
+- **Vocational Certificate, Electronics** · Chiang Mai Technical College · *2014 – 2017*
+
+## 🚀 Projects
+
+| Project | What it does | Built with |
+|---|---|---|
+| 🧾 **Accounting & sales system** <br><sub>work project · private</sub> | Purchasing, sales, inventory and tax workflows, with an admin web app and a sales mobile app | NestJS · PostgreSQL · React · Flutter |
+| 🤟 **Sign Language Trainer** <br><sub>student innovation competition</sub> | Recognizes Thai Sign Language hand gestures from a webcam in real time and scores each attempt | JavaScript · MediaPipe |
+| 📈 **[goldsignal](https://github.com/simonice14822/goldsignal)** <br><sub>[live demo](https://simonice14822.github.io/goldsignal/)</sub> | Gold (XAU/USD) trading helper: live price, multi-timeframe EMA trend, ATR-based SL/TP and risk calculator | JavaScript · Canvas · Web Audio |
+| 🏡 **[myice-land](https://github.com/simonice14822/myice-land)** <br><sub>[live demo](https://simonice14822.github.io/myice-land/)</sub> | Responsive land-for-sale landing page with photo gallery, lightbox and embedded map | HTML · CSS · Bootstrap 5 |
+| 🐘 **[Test_php-](https://github.com/simonice14822/Test_php-)** | Product listing pages | PHP |
 
 ---
 
-<p align="center">📫 Reach me on <a href="https://www.linkedin.com/in/jirawat-jommanee-654581361/">LinkedIn</a></p>
+<div align="center">
+  <sub>📫 Reach me on <a href="https://www.linkedin.com/in/jirawat-jommanee-654581361/">LinkedIn</a></sub>
+</div>
