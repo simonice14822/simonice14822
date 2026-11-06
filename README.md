@@ -12,17 +12,15 @@
 
 </div>
 
-```ts
-const jirawat = {
-  role: "Full Stack Developer",
-  basedIn: "Chiang Mai, Thailand",
-  building: "Business systems end to end: database → REST API → admin web → mobile app",
-  currently: "Running an in-house accounting & sales system for a trading company",
-  previously: "Programming instructor at a vocational college (2 years)",
-  education: "B.S. Industrial Education, Computer Engineering, RMUTL",
-  languages: ["TypeScript", "JavaScript", "Python", "PHP", "Dart", "SQL"],
-  openTo: ["Programmer", "IT"],
-};
+```bash
+$ whoami
+Jirawat Jommanee · Full Stack Developer · Chiang Mai
+
+$ cat stack.txt
+TypeScript · NestJS · React · Flutter · PostgreSQL
+
+$ cat status.txt
+Open to Programmer & IT roles
 ```
 
 ## 🧰 Tech stack
