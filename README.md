@@ -61,6 +61,8 @@ Web app for a school for the deaf. Recognizes Thai Sign Language hand gestures i
 
 Single-page tool for manual XAU/USD trading on the 5-minute chart. Shows the live gold price, checks the EMA50 trend across M5, M15 and H1, flags rule-based pullback entries to EMA20, and calculates ATR-based SL/TP and risk per trade. Includes a price sparkline, sound alerts and a signal log with CSV export. It does not predict price; it only enforces trading rules.
 
+🔗 **Live demo:** https://simonice14822.github.io/goldsignal/
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -70,6 +72,8 @@ Single-page tool for manual XAU/USD trading on the 5-minute chart. Shows the liv
 ### 🏡 [myice-land](https://github.com/simonice14822/myice-land): land-for-sale landing page
 
 Responsive landing page for a land listing in Hang Dong, Chiang Mai: hero section, plot pricing cards, photo gallery with lightbox, embedded Google Map and a contact section.
+
+🔗 **Live demo:** https://simonice14822.github.io/myice-land/
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
